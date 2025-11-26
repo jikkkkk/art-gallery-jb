@@ -1,0 +1,450 @@
+# depslib dependency file v1.0
+1648985239 source:c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb\artist.cpp
+	"Artist.h"
+	"Exhibit.h"
+
+1648985094 c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb\artist.h
+	<string>
+	<iostream>
+	<set>
+	<algorithm>
+
+1648985236 source:c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb\collection.cpp
+	"Collection.h"
+
+1648986666 c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb\collection.h
+	<string>
+	<iostream>
+	<vector>
+	<algorithm>
+	"Exhibit.h"
+
+1648985168 source:c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb\exhibit.cpp
+	"Exhibit.h"
+	<iostream>
+
+1648928183 c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb\exhibit.h
+	<string>
+	"Artist.h"
+
+1648984832 source:c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb\main.cpp
+	<iostream>
+	<string>
+	"Sculpture.h"
+	"Exhibit.h"
+	"Painting.h"
+	"Collection.h"
+	"ArtGallery.h"
+
+1648674085 source:c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb\sculpture.cpp
+	"Sculpture.h"
+	<iostream>
+
+1648624776 c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb\sculpture.h
+	"Exhibit.h"
+	<string>
+
+1648674439 source:c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb\painting.cpp
+	"Painting.h"
+	<iostream>
+
+1648624772 c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb\painting.h
+	<string>
+	"Exhibit.h"
+
+1648983613 source:c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb\artgallery.cpp
+	"ArtGallery.h"
+
+1648986704 c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb\artgallery.h
+	<string>
+	<vector>
+	<iostream>
+	"Collection.h"
+
+1649003424 source:c:\users\user\downloads\artgallery_ad_jb_2\artgallery_ad_jb\artgallery.cpp
+	"ArtGallery.h"
+
+1649003424 c:\users\user\downloads\artgallery_ad_jb_2\artgallery_ad_jb\artgallery.h
+	<string>
+	<vector>
+	<iostream>
+	"Collection.h"
+
+1649003425 c:\users\user\downloads\artgallery_ad_jb_2\artgallery_ad_jb\collection.h
+	<string>
+	<iostream>
+	<vector>
+	<algorithm>
+	"Exhibit.h"
+
+1649003425 c:\users\user\downloads\artgallery_ad_jb_2\artgallery_ad_jb\exhibit.h
+	<string>
+	"Artist.h"
+
+1649003424 c:\users\user\downloads\artgallery_ad_jb_2\artgallery_ad_jb\artist.h
+	<string>
+	<iostream>
+	<set>
+	<algorithm>
+
+1649003424 source:c:\users\user\downloads\artgallery_ad_jb_2\artgallery_ad_jb\artist.cpp
+	"Artist.h"
+	"Exhibit.h"
+
+1649003425 source:c:\users\user\downloads\artgallery_ad_jb_2\artgallery_ad_jb\exhibit.cpp
+	"Exhibit.h"
+	<iostream>
+
+1649003425 source:c:\users\user\downloads\artgallery_ad_jb_2\artgallery_ad_jb\main.cpp
+	<iostream>
+	<string>
+	"Sculpture.h"
+	"Exhibit.h"
+	"Painting.h"
+	"Collection.h"
+	"ArtGallery.h"
+
+1649003425 c:\users\user\downloads\artgallery_ad_jb_2\artgallery_ad_jb\sculpture.h
+	"Exhibit.h"
+	<string>
+
+1649003425 c:\users\user\downloads\artgallery_ad_jb_2\artgallery_ad_jb\painting.h
+	<string>
+	"Exhibit.h"
+
+1649003425 source:c:\users\user\downloads\artgallery_ad_jb_2\artgallery_ad_jb\painting.cpp
+	"Painting.h"
+	<iostream>
+
+1649003425 source:c:\users\user\downloads\artgallery_ad_jb_2\artgallery_ad_jb\sculpture.cpp
+	"Sculpture.h"
+	<iostream>
+
+1650982698 source:c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb\artgallery_ad_jb\artgallery.cpp
+	"ArtGallery.h"
+
+1650981403 c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb\artgallery_ad_jb\artgallery.h
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	"Collection.h"
+
+1650982375 c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb\artgallery_ad_jb\collection.h
+	<string>
+	<iostream>
+	<vector>
+	<algorithm>
+	"Exhibit.h"
+
+1650984668 c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb\artgallery_ad_jb\exhibit.h
+	<string>
+	"Artist.h"
+
+1649003424 c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb\artgallery_ad_jb\artist.h
+	<string>
+	<iostream>
+	<set>
+	<algorithm>
+
+1649003424 source:c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb\artgallery_ad_jb\artist.cpp
+	"Artist.h"
+	"Exhibit.h"
+
+1650983204 source:c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb\artgallery_ad_jb\main.cpp
+	<iostream>
+	<string>
+	"Sculpture.h"
+	"Exhibit.h"
+	"Painting.h"
+	"Collection.h"
+	"ArtGallery.h"
+
+1649003425 c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb\artgallery_ad_jb\sculpture.h
+	"Exhibit.h"
+	<string>
+
+1650983059 c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb\artgallery_ad_jb\painting.h
+	<string>
+	"Exhibit.h"
+
+1650983058 source:c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb\artgallery_ad_jb\painting.cpp
+	"Painting.h"
+	<iostream>
+
+1649003425 source:c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb\artgallery_ad_jb\sculpture.cpp
+	"Sculpture.h"
+	<iostream>
+
+1650981126 source:c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb\artgallery_ad_jb\collection.cpp
+	"Collection.h"
+
+1650982977 source:c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb\artgallery_ad_jb\exhibit.cpp
+	"Exhibit.h"
+	<iostream>
+
+1651585378 source:c:\users\jackb\downloads\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\artist.cpp
+	"Artist.h"
+	"Exhibit.h"
+
+1651585378 c:\users\jackb\downloads\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\artist.h
+	<string>
+	<iostream>
+	<set>
+	<algorithm>
+
+1651585378 c:\users\jackb\downloads\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\exhibit.h
+	<string>
+	"Artist.h"
+
+1651585378 source:c:\users\jackb\downloads\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\collection.cpp
+	"Collection.h"
+
+1651585378 c:\users\jackb\downloads\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\collection.h
+	<string>
+	<iostream>
+	<vector>
+	<algorithm>
+	"Exhibit.h"
+
+1651585378 source:c:\users\jackb\downloads\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\exhibit.cpp
+	"Exhibit.h"
+	<iostream>
+
+1651587079 source:c:\users\jackb\downloads\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\main.cpp
+	<iostream>
+	<string>
+	"Sculpture.h"
+	"Exhibit.h"
+	"Painting.h"
+	"Collection.h"
+	"ArtGallery.h"
+
+1651585379 c:\users\jackb\downloads\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\sculpture.h
+	"Exhibit.h"
+	<string>
+
+1651585378 c:\users\jackb\downloads\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\painting.h
+	<string>
+	"Exhibit.h"
+
+1651586289 c:\users\jackb\downloads\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\artgallery.h
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	"Collection.h"
+	<stdlib.h>
+
+1651585378 source:c:\users\jackb\downloads\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\painting.cpp
+	"Painting.h"
+	<iostream>
+
+1651585378 source:c:\users\jackb\downloads\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\sculpture.cpp
+	"Sculpture.h"
+	<iostream>
+
+1651587418 source:c:\users\jackb\downloads\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\artgallery.cpp
+	"ArtGallery.h"
+
+1653162856 source:c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\artgallery.cpp
+	"ArtGallery.h"
+
+1651588982 c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\artgallery.h
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	"Collection.h"
+	<stdlib.h>
+
+1653163496 c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\collection.h
+	<string>
+	<iostream>
+	<vector>
+	<algorithm>
+	"Exhibit.h"
+	"CollectionIsFullException.h"
+
+1651588982 c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\exhibit.h
+	<string>
+	"Artist.h"
+
+1652286972 c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\artist.h
+	<string>
+	<iostream>
+	<set>
+	<algorithm>
+
+1651588982 source:c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\artist.cpp
+	"Artist.h"
+	"Exhibit.h"
+
+1653163496 source:c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\collection.cpp
+	"Collection.h"
+
+1652287151 source:c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\exhibit.cpp
+	"Exhibit.h"
+	<iostream>
+
+1653162692 source:c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\main.cpp
+	<iostream>
+	<string>
+	"Sculpture.h"
+	"Exhibit.h"
+	"Painting.h"
+	"Collection.h"
+	"ArtGallery.h"
+
+1651588982 c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\sculpture.h
+	"Exhibit.h"
+	<string>
+
+1651588982 c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\painting.h
+	<string>
+	"Exhibit.h"
+
+1651588982 source:c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\painting.cpp
+	"Painting.h"
+	<iostream>
+
+1651588982 source:c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\sculpture.cpp
+	"Sculpture.h"
+	<iostream>
+
+1653162899 c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\collectionisfullexception.h
+	<exception>
+
+1653160825 c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\exhibitisinothercollectionexception.h
+	<exception>
+
+1653163330 c:\users\user\onedrive - technological university dublin\year 2\semester 2\software development\artgallery_ad_jb (2)\artgallery_ad_jb\artgallery_ad_jb\exhbitisaddedexception.h
+	<exception>
+
+1653173076 source:c:\users\jackb\onedrive\college\year 2\semester 2 (y2)\software development project submissions\artgallery_ad_jb_final_sub\artgallery_ad_jb\artgallery.cpp
+	"ArtGallery.h"
+
+1653173076 c:\users\jackb\onedrive\college\year 2\semester 2 (y2)\software development project submissions\artgallery_ad_jb_final_sub\artgallery_ad_jb\artgallery.h
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	"Collection.h"
+	<stdlib.h>
+
+1653173076 c:\users\jackb\onedrive\college\year 2\semester 2 (y2)\software development project submissions\artgallery_ad_jb_final_sub\artgallery_ad_jb\collection.h
+	<string>
+	<iostream>
+	<vector>
+	<algorithm>
+	"Exhibit.h"
+	"CollectionIsFullException.h"
+
+1653173077 c:\users\jackb\onedrive\college\year 2\semester 2 (y2)\software development project submissions\artgallery_ad_jb_final_sub\artgallery_ad_jb\exhibit.h
+	<string>
+	"Artist.h"
+
+1653173076 c:\users\jackb\onedrive\college\year 2\semester 2 (y2)\software development project submissions\artgallery_ad_jb_final_sub\artgallery_ad_jb\artist.h
+	<string>
+	<iostream>
+	<set>
+	<algorithm>
+
+1653331382 c:\users\jackb\onedrive\college\year 2\semester 2 (y2)\software development project submissions\artgallery_ad_jb_final_sub\artgallery_ad_jb\collectionisfullexception.h
+	<exception>
+
+1653173076 source:c:\users\jackb\onedrive\college\year 2\semester 2 (y2)\software development project submissions\artgallery_ad_jb_final_sub\artgallery_ad_jb\artist.cpp
+	"Artist.h"
+	"Exhibit.h"
+
+1653173077 source:c:\users\jackb\onedrive\college\year 2\semester 2 (y2)\software development project submissions\artgallery_ad_jb_final_sub\artgallery_ad_jb\exhibit.cpp
+	"Exhibit.h"
+	<iostream>
+
+1653173077 source:c:\users\jackb\onedrive\college\year 2\semester 2 (y2)\software development project submissions\artgallery_ad_jb_final_sub\artgallery_ad_jb\main.cpp
+	<iostream>
+	<string>
+	"Sculpture.h"
+	"Exhibit.h"
+	"Painting.h"
+	"Collection.h"
+	"ArtGallery.h"
+
+1653173077 c:\users\jackb\onedrive\college\year 2\semester 2 (y2)\software development project submissions\artgallery_ad_jb_final_sub\artgallery_ad_jb\sculpture.h
+	"Exhibit.h"
+	<string>
+
+1653173077 c:\users\jackb\onedrive\college\year 2\semester 2 (y2)\software development project submissions\artgallery_ad_jb_final_sub\artgallery_ad_jb\painting.h
+	<string>
+	"Exhibit.h"
+
+1653173077 source:c:\users\jackb\onedrive\college\year 2\semester 2 (y2)\software development project submissions\artgallery_ad_jb_final_sub\artgallery_ad_jb\painting.cpp
+	"Painting.h"
+	<iostream>
+
+1653173077 source:c:\users\jackb\onedrive\college\year 2\semester 2 (y2)\software development project submissions\artgallery_ad_jb_final_sub\artgallery_ad_jb\sculpture.cpp
+	"Sculpture.h"
+	<iostream>
+
+1653328494 source:c:\users\jackb\onedrive\college\year 2\semester 2 (y2)\software development project submissions\artgallery_ad_jb_final_sub\artgallery_ad_jb\collection.cpp
+	"Collection.h"
+
+1653173076 source:c:\users\jackb\onedrive\documents\job applications\coding projects\playlist project (year 2 college)\artgallery_jb\artgallery.cpp
+	"ArtGallery.h"
+
+1653173076 c:\users\jackb\onedrive\documents\job applications\coding projects\playlist project (year 2 college)\artgallery_jb\artgallery.h
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	"Collection.h"
+	<stdlib.h>
+
+1764184952 c:\users\jackb\onedrive\documents\job applications\coding projects\playlist project (year 2 college)\artgallery_jb\collection.h
+	<string>
+	<iostream>
+	<vector>
+	<algorithm>
+	"Exhibit.h"
+	"CollectionIsFullException.h"
+
+1653173077 c:\users\jackb\onedrive\documents\job applications\coding projects\playlist project (year 2 college)\artgallery_jb\exhibit.h
+	<string>
+	"Artist.h"
+
+1764184575 c:\users\jackb\onedrive\documents\job applications\coding projects\playlist project (year 2 college)\artgallery_jb\artist.h
+	<string>
+	<iostream>
+	<set>
+	<algorithm>
+
+1653331382 c:\users\jackb\onedrive\documents\job applications\coding projects\playlist project (year 2 college)\artgallery_jb\collectionisfullexception.h
+	<exception>
+
+1653173076 source:c:\users\jackb\onedrive\documents\job applications\coding projects\playlist project (year 2 college)\artgallery_jb\artist.cpp
+	"Artist.h"
+	"Exhibit.h"
+
+1653328494 source:c:\users\jackb\onedrive\documents\job applications\coding projects\playlist project (year 2 college)\artgallery_jb\collection.cpp
+	"Collection.h"
+
+1653173077 source:c:\users\jackb\onedrive\documents\job applications\coding projects\playlist project (year 2 college)\artgallery_jb\exhibit.cpp
+	"Exhibit.h"
+	<iostream>
+
+1653173077 source:c:\users\jackb\onedrive\documents\job applications\coding projects\playlist project (year 2 college)\artgallery_jb\painting.cpp
+	"Painting.h"
+	<iostream>
+
+1653173077 c:\users\jackb\onedrive\documents\job applications\coding projects\playlist project (year 2 college)\artgallery_jb\painting.h
+	<string>
+	"Exhibit.h"
+
+1653173077 source:c:\users\jackb\onedrive\documents\job applications\coding projects\playlist project (year 2 college)\artgallery_jb\sculpture.cpp
+	"Sculpture.h"
+	<iostream>
+
+1653173077 c:\users\jackb\onedrive\documents\job applications\coding projects\playlist project (year 2 college)\artgallery_jb\sculpture.h
+	"Exhibit.h"
+	<string>
+

@@ -1,0 +1,26 @@
+			Art Gallery: Louvre
+Location: Paris
+
+Collection available: Egypt
+Exhibits available:
+
+Artist: unknown artist
+Name of the Creation: Jesus Christ Statue
+Year of Creation: 1500
+
+Artist: Leonardo Da Vinci
+Name of the Creation: Salvator Mundi
+Year of Creation: 1500
+
+Artist: Alexandros of Antioch
+Name of the Creation: Venus De Milo
+Year of Creation: 130
+
+Artist: Leonardo Da Vinci
+Name of the Creation: Mona Lisa
+Year of Creation: 1503
+
+Artist: Sandro Botticelli
+Name of the Creation: Primavera
+Year of Creation: 1482
+

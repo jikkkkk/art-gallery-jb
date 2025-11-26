@@ -1,0 +1,18 @@
+			Art Gallery: The National Art Gallery
+Location: London
+
+Collection available: Ancient Rome
+Exhibits available:
+
+Artist: Alexandros of Antioch
+Name of the Creation: Venus De Milo
+Year of Creation: 130
+
+Artist: Johannes Vermeer
+Name of the Creation: Girl with a pearl earring
+Year of Creation: 1665
+
+Artist: Gian Lorenzo Bernini
+Name of the Creation: Ecstasy of Saint Teresa
+Year of Creation: 1963
+
